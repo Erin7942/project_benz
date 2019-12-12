@@ -274,7 +274,7 @@ a:link, a:visited, a:hover, a:active{color: inherit;text-decoration: none;}
   border-radius: 0 0 45px 0;
 }
 #content .enginSub_Text{
-  line-height: 30px;
+  letter-spacing: 4px;
   position: relative;
   top: 890px;
   left: 600px;
@@ -286,6 +286,8 @@ a:link, a:visited, a:hover, a:active{color: inherit;text-decoration: none;}
   font-family: SCDream;
   font-size: 16px;
   padding-top: 53px;
+  letter-spacing: 0;
+  line-height: 2;
 }
 /* PERFORMANCE WITH AMG */
 #content .Title_AMG{
